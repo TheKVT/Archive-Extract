@@ -8,4 +8,4 @@ Archive and Extract files and folders through colab <br/><br/>
 ### __From this extract to :-__<br>
  `1.UNZIP`<br>`2.UNTAR`<br>`3.UNRAR`<br>`4.7Z`<br>`5.ISO`<br>
  
- ###### SO,through this colab notes you can extract .ISO files also 
+
