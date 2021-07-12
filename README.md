@@ -11,6 +11,7 @@ Archive and Extract files and folders through colab with passwords also<br/><br/
  OTHERS :-  AR, ARJ, CAB, CHM, CPIO, CramFS, DMG, EXT, FAT, GPT, HFS, IHEX, ISO, LZH, LZMA, MBR, MSI, NSIS, NTFS, QCOW2, RAR, RPM, SquashFS, UDF, UEFI, VDI, VHD, VMDK, WIM, XAR and Z
 ````
  
- 
+ <br/><br/>
+  > For Archiving folder just add folder path for multi folder divide folders path with `` . Just same as for files keep between that two paths
  
 
