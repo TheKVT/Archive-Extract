@@ -6,6 +6,6 @@ Archive and Extract files and folders through colab with passwords also<br/><br/
 `1.ZIP`<BR>`2.TAR`<BR>`3.7Z`
 <br/><br/>
 ### __From this extract to :-__<br>
- `1.UNZIP`<br>`2.UNTAR`<br>`3.UNRAR`<br>`4.7Z`<br>`5.ISO`<br>
+ ``` `1.UNZIP`<br>`2.UNTAR`<br>`3.UNRAR`<br>`4.7Z`<br>`5.ISO`<br> ```
  
 
