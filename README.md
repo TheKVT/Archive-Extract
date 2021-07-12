@@ -7,7 +7,7 @@ Archive and Extract files and folders through colab with passwords also<br/><br/
 <br/><br/>
 ### __From this extract to :-__<br>
 ````
- `UNZIP, UNTAR, UNRAR, 7Z, ISO, 
+ UNZIP, UNTAR, UNRAR, 7Z, ISO, 
  OTHERS :-  AR, ARJ, CAB, CHM, CPIO, CramFS, DMG, EXT, FAT, GPT, HFS, IHEX, ISO, LZH, LZMA, MBR, MSI, NSIS, NTFS, QCOW2, RAR, RPM, SquashFS, UDF, UEFI, VDI, VHD, VMDK, WIM, XAR and Z
 ````
  
