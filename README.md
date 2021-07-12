@@ -12,6 +12,6 @@ Archive and Extract files and folders through colab with passwords also<br/><br/
 ````
  
  <br/><br/>
-  > For Archiving folder just add folder path for multi folder divide folders path with `` . Just same as for files keep between that two paths
- 
+  > For Archiving folder just add folder path for multi folder divide folders path with `` . 
+ > Just same as for files keep between that two paths
 
