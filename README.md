@@ -12,10 +12,14 @@ Archive and Extract files and folders through colab with passwords also<br/><br/
 ````
  
  <br/>
-  For Archiving folder just add folder path for multi folder divide folders path with |. 
+  For Archiving folder just add folder path for multi folder divide folders path with `|` . 
 
 ``` 
 for files /content/drive/video/1.mkv |/content/drive/video/2.mkv |.....
 for archiving one folder Just add path of folder
 for more folders just files /content/drive/video |/content/drive/Music |..... 
 ```
+
+ ### Added new feature
+ 
+ Know which files with `Size` and `FileName` present in archive file, with password protected file or without it.
